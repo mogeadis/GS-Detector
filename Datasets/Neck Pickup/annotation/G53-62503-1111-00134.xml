@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<instrumentRecording>
+  <globalParameter>
+    <audioFileName>G53-62503-1111-00134.wav</audioFileName>
+    <instrument>EGUI</instrument>
+    <recordingDate>07.01.2013</recordingDate>
+  </globalParameter>
+  <transcription>
+    <event>
+      <pitch>62</pitch>
+      <onsetSec>0.213</onsetSec>
+      <offsetSec>2.5</offsetSec>
+      <fretNumber>3</fretNumber>
+      <stringNumber>5</stringNumber>
+      <excitationStyle>PK</excitationStyle>
+      <expressionStyle>NO</expressionStyle>
+    </event>
+  </transcription>
+</instrumentRecording> 
