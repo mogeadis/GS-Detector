@@ -32,8 +32,8 @@ The datasets included in this repository are sourced from the [IDMT-SMT-Guitar](
 
 ## License
 
-*GS-Detector* © *2024* by *Alexandros Iliadis* is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+*GS-Detector* © *2024* by *Alexandros Iliadis* is licensed under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0).
 
-This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes.
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 See the [LICENSE.md](LICENSE.md) file for more details.
