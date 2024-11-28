@@ -22,6 +22,7 @@ The code in this repository is contained in two *Jupyter Notebooks*, namely [`ma
 ### Technical Details
 This project was developed exclusively within the computing environment of *Google Colaboratory*, thus the specific version of *Python* used and any package requirements are subject to the up-to-dateness of the service at the time of development. To run the notebooks in your own working environment, please refer to the associated code sections and make any necessary adjustments.
 
+
 ## Acknowledgements
 
 The datasets included in this repository are sourced from the [IDMT-SMT-Guitar](https://www.idmt.fraunhofer.de/en/publications/datasets/guitar.html) dataset by Christian Kehling, Andreas Männchen, and Arndt Eppler. Each dataset directory provided in this repository corresponds to a specific directory within the original dataset as follows:
